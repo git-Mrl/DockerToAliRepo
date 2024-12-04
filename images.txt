@@ -10,4 +10,3 @@
 #kubesphere/ks-installer:v3.4.1
 redis
 nginx
-hello-world
