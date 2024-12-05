@@ -8,5 +8,5 @@
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
---platform linux/amd64 redis
---platform linux/amd64 nginx
+--platform linux/arm64/v8 redis
+--platform linux/arm64/v8 nginx
