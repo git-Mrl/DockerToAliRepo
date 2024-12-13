@@ -10,4 +10,4 @@
 #kubesphere/ks-installer:v3.4.1
 #--platform linux/arm64/v8 redis
 #--platform linux/arm64/v8 nginx
---platform linux/arm64v8/hello-world
+--platform linux/arm64/v8 hello-world
