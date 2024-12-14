@@ -11,3 +11,4 @@
 #--platform linux/arm64/v8 redis
 #--platform linux/arm64/v8 nginx
 --platform linux/arm64/v8 hello-world
+--platform linux/arm64/v8 mysql
