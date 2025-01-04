@@ -1,7 +1,7 @@
 #redis:7.4.1
 #nginx:1.27.2
 #mysql:8.4.3
-#nacos/nacos-server:v2.4.3
+nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
@@ -12,5 +12,5 @@
 #--platform linux/arm64/v8 nginx
 #--platform linux/arm64/v8 hello-world
 #--platform linux/arm64/v8 mysql:8.0.31
---platform linux/arm64 kindest/node
+#--platform linux/arm64 kindest/node
 
