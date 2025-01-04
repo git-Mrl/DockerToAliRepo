@@ -13,4 +13,7 @@ nacos/nacos-server:v2.1.0
 #--platform linux/arm64/v8 hello-world
 #--platform linux/arm64/v8 mysql:8.0.31
 #--platform linux/arm64 kindest/node:v1.29.12
+#--platform linux/arm64 mysql:8.4.3
+--platform linux/arm64 nginx
+
 
