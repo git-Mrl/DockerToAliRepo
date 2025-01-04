@@ -15,8 +15,8 @@ nacos/nacos-server:v2.1.0
 #--platform linux/arm64 kindest/node:v1.29.12
 #--platform linux/arm64 mysql:8.4.3
 #--platform linux/arm64 nginx
---platform linux/arm64 k8s.gcr.io/ingress-nginx/controller:v1.12.0
---platform linux/arm64 k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0
+#--platform linux/arm64 k8s.gcr.io/ingress-nginx/controller:v1.12.0
+--platform linux/arm64 k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.5.0
 
 
 
